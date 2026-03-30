@@ -1,3 +1,5 @@
+**注意**：translations/zh-CN目录下为中文版本，本仓库仅用于个人学习
+
 ## course.fast.ai
 
 This is where you'll find the notebooks, slides, and spreadsheets for the 2022 edition of Practical Deep Learning for Coders. See [course.fast.ai](https://course.fast.ai) for the lessons.
