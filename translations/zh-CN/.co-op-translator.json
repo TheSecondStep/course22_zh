@@ -1,0 +1,146 @@
+{
+  "00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb": {
+    "original_hash": "6cd8a93a1977ceaad3b3e698d4c7d362",
+    "translation_date": "2026-03-30T07:52:33+00:00",
+    "source_file": "00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb",
+    "language_code": "zh-CN"
+  },
+  "01-jupyter-notebook-101.ipynb": {
+    "original_hash": "85b51c9bb03916bb5bb223c87c9001d5",
+    "translation_date": "2026-03-30T07:49:26+00:00",
+    "source_file": "01-jupyter-notebook-101.ipynb",
+    "language_code": "zh-CN"
+  },
+  "02-saving-a-basic-fastai-model.ipynb": {
+    "original_hash": "66bebb21f356a54d5c03142051c31636",
+    "translation_date": "2026-03-30T07:56:05+00:00",
+    "source_file": "02-saving-a-basic-fastai-model.ipynb",
+    "language_code": "zh-CN"
+  },
+  "03-which-image-models-are-best.ipynb": {
+    "original_hash": "af488a54a9fc42ad9c727c96ce56f825",
+    "translation_date": "2026-03-30T07:50:53+00:00",
+    "source_file": "03-which-image-models-are-best.ipynb",
+    "language_code": "zh-CN"
+  },
+  "04-how-does-a-neural-net-really-work.ipynb": {
+    "original_hash": "b659263d0e790ac708cb5fbfdfd2a46d",
+    "translation_date": "2026-03-30T08:19:57+00:00",
+    "source_file": "04-how-does-a-neural-net-really-work.ipynb",
+    "language_code": "zh-CN"
+  },
+  "05-linear-model-and-neural-net-from-scratch.ipynb": {
+    "original_hash": "249331f56ae95ceb02085b165e567a96",
+    "translation_date": "2026-03-30T08:03:39+00:00",
+    "source_file": "05-linear-model-and-neural-net-from-scratch.ipynb",
+    "language_code": "zh-CN"
+  },
+  "06-why-you-should-use-a-framework.ipynb": {
+    "original_hash": "c38647f6f414688d299f14f8dcd096db",
+    "translation_date": "2026-03-30T08:06:12+00:00",
+    "source_file": "06-why-you-should-use-a-framework.ipynb",
+    "language_code": "zh-CN"
+  },
+  "07-how-random-forests-really-work.ipynb": {
+    "original_hash": "e6d03f5bfe50c7b75189ce1d9f3ae3cc",
+    "translation_date": "2026-03-30T08:11:04+00:00",
+    "source_file": "07-how-random-forests-really-work.ipynb",
+    "language_code": "zh-CN"
+  },
+  "08-first-steps-road-to-the-top-part-1.ipynb": {
+    "original_hash": "98a6503afd28d8e5b631a6e79ba3e994",
+    "translation_date": "2026-03-30T08:13:22+00:00",
+    "source_file": "08-first-steps-road-to-the-top-part-1.ipynb",
+    "language_code": "zh-CN"
+  },
+  "09-small-models-road-to-the-top-part-2.ipynb": {
+    "original_hash": "cb20d31c755cb324cf56e240d5adf73a",
+    "translation_date": "2026-03-30T08:16:10+00:00",
+    "source_file": "09-small-models-road-to-the-top-part-2.ipynb",
+    "language_code": "zh-CN"
+  },
+  "10-scaling-up-road-to-the-top-part-3.ipynb": {
+    "original_hash": "8c84adfdac0b5f5ab6ae568580dc37f1",
+    "translation_date": "2026-03-30T07:55:18+00:00",
+    "source_file": "10-scaling-up-road-to-the-top-part-3.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb": {
+    "original_hash": "a810bb02c54fdc61ccfd69b25d85c4eb",
+    "translation_date": "2026-03-30T08:28:53+00:00",
+    "source_file": "clean/00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/01-jupyter-notebook-101.ipynb": {
+    "original_hash": "778e00e34ee175b0a8d1d347a90cb8b6",
+    "translation_date": "2026-03-30T08:28:07+00:00",
+    "source_file": "clean/01-jupyter-notebook-101.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/02-saving-a-basic-fastai-model.ipynb": {
+    "original_hash": "c74cd2a0cf8f15bf75d6b7804f4222f0",
+    "translation_date": "2026-03-30T08:29:27+00:00",
+    "source_file": "clean/02-saving-a-basic-fastai-model.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/03-which-image-models-are-best.ipynb": {
+    "original_hash": "4ec56a249b1ea459d46e34e210f1fe1c",
+    "translation_date": "2026-03-30T08:28:31+00:00",
+    "source_file": "clean/03-which-image-models-are-best.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/04-how-does-a-neural-net-really-work.ipynb": {
+    "original_hash": "105d568ac6d603c7b8e288bacdb5b516",
+    "translation_date": "2026-03-30T08:32:52+00:00",
+    "source_file": "clean/04-how-does-a-neural-net-really-work.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/05-linear-model-and-neural-net-from-scratch.ipynb": {
+    "original_hash": "d494a576e2a270fb60acaf2afbb2e90d",
+    "translation_date": "2026-03-30T08:30:19+00:00",
+    "source_file": "clean/05-linear-model-and-neural-net-from-scratch.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/06-why-you-should-use-a-framework.ipynb": {
+    "original_hash": "d8e7604ff6bf9f6ce1510aa6709fadb5",
+    "translation_date": "2026-03-30T08:30:52+00:00",
+    "source_file": "clean/06-why-you-should-use-a-framework.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/07-how-random-forests-really-work.ipynb": {
+    "original_hash": "4f3e3cbc768214c82e877859aa852ecd",
+    "translation_date": "2026-03-30T08:31:21+00:00",
+    "source_file": "clean/07-how-random-forests-really-work.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/08-first-steps-road-to-the-top-part-1.ipynb": {
+    "original_hash": "971ebfedbf438ec44d645765bfca97b7",
+    "translation_date": "2026-03-30T08:31:50+00:00",
+    "source_file": "clean/08-first-steps-road-to-the-top-part-1.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/09-small-models-road-to-the-top-part-2.ipynb": {
+    "original_hash": "02c2284ce61d581006eccd30f7a1c38f",
+    "translation_date": "2026-03-30T08:32:26+00:00",
+    "source_file": "clean/09-small-models-road-to-the-top-part-2.ipynb",
+    "language_code": "zh-CN"
+  },
+  "clean/10-scaling-up-road-to-the-top-part-3.ipynb": {
+    "original_hash": "c6b0aa6e16050e24e5f751aa023faf19",
+    "translation_date": "2026-03-30T08:29:17+00:00",
+    "source_file": "clean/10-scaling-up-road-to-the-top-part-3.ipynb",
+    "language_code": "zh-CN"
+  },
+  "slides/birds.ipynb": {
+    "original_hash": "258ea868c5af8c20193ddca19416de1d",
+    "translation_date": "2026-03-30T08:26:57+00:00",
+    "source_file": "slides/birds.ipynb",
+    "language_code": "zh-CN"
+  },
+  "slides/nlp-intro.ipynb": {
+    "original_hash": "ca6bef44d1b4290c5990894e7b5085d1",
+    "translation_date": "2026-03-30T08:26:04+00:00",
+    "source_file": "slides/nlp-intro.ipynb",
+    "language_code": "zh-CN"
+  }
+}
